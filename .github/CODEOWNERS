@@ -1,0 +1,10 @@
+# Every change is owned by @andy-todd.
+*                   @andy-todd
+
+# Security-sensitive paths, listed explicitly so they stay owned if the
+# default rule above is ever narrowed.
+/.github/           @andy-todd
+/.vscode/           @andy-todd
+/.gitignore         @andy-todd
+**/package.json     @andy-todd
+**/*.config.*       @andy-todd
